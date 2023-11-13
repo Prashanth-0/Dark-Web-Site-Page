@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a basic webpage with a background image created using HTML and CSS. It serves as a starting point for projects that require a visually appealing background.
+This project showcases a basic webpage with a background image and text created using HTML and CSS. It serves as a starting point for projects which are used in dark web hosting.
 
 ## File Structure
 
